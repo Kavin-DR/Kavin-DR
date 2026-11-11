@@ -104,6 +104,11 @@ A collection of projects developed during my Artificial Intelligence internship.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavin-DR&theme=dark&background=10070C&ring=C77B9B&fire=E5B5C7&currStreakLabel=E5B5C7&border=451126" />
 
 </div>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Kavin-DR/Kavin-DR/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+
+</div>
 
 ---
 
