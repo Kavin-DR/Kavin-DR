@@ -272,5 +272,11 @@ Served as the in-charge of the Code Debugging event.
   </a>
 
 </div>
+<div align="center">
 
+<img src="assets/kavin-footer.svg"
+     width="100%"
+     alt="Thanks for visiting Kavin's GitHub profile"/>
+
+</div>
 ---
