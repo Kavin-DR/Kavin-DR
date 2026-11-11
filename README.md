@@ -53,26 +53,56 @@ Hello! I'm **Kavin**, a passionate Computer Science and Engineering student inte
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Spam Mail Detector
-An AI-based spam classification project designed to identify spam messages using machine learning and deep learning concepts.
+<div align="center">
 
-**Technologies:** Python, Flask, React, TensorFlow.
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Spam Mail Detector
+
+An intelligent spam detection application that identifies spam messages using machine learning and deep learning.
+
+**Tech Stack:**
+Python • TensorFlow • Flask • React
+
+<a href="https://github.com/Kavin-DR/DecodeLabs-Internship">
+<img src="https://img.shields.io/badge/View_Project-C77B9B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%">
 
 ### 🎮 Game Verse
-A gaming website focused on exploring games and discovering game reviews.
 
-**Technologies:** HTML, CSS, JavaScript.
+A gaming platform designed to explore games, discover information, and read game reviews.
 
-[View Project](https://github.com/Kavin-DR/Game-Verse)
+**Tech Stack:**
+HTML • CSS • JavaScript
 
-### 🧠 DecodeLabs Internship Projects
-A collection of projects developed during my Artificial Intelligence internship.
+<a href="https://github.com/Kavin-DR/Game-Verse">
+<img src="https://img.shields.io/badge/View_Project-C77B9B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Technologies:** Python, AI, Machine Learning.
+</td>
+</tr>
 
-[View Repository](https://github.com/Kavin-DR/DecodeLabs-Internship)
+<tr>
+<td colspan="2" align="center">
 
----
+### 🧠 AI & Machine Learning Projects
+
+Exploring artificial intelligence, machine learning models, and practical AI applications through hands-on development.
+
+<a href="https://github.com/Kavin-DR/DecodeLabs-Internship">
+<img src="https://img.shields.io/badge/Explore_Repositories-701A3D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🏆 Certifications
 
