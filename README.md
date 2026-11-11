@@ -112,7 +112,59 @@ Exploring artificial intelligence, machine learning models, and practical AI app
 - Operating System Foundation — Coursera.
 - Generative Models of AI — Infosys.
 - MongoDB Basics for Students.
+---
 
+## 🏆 Achievements & Experience
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🤖 AI Internship
+
+**DecodeLabs**
+
+Completed an Artificial Intelligence internship, gaining practical exposure to AI concepts and project development.
+
+</td>
+<td align="center" width="50%">
+
+### 🌐 Web Development Internship
+
+**Rinex**
+
+Gained practical experience in web development and building interactive applications.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 💻 Competitive Programming
+
+**LeetCode & CodeChef**
+
+Actively solving coding problems and improving algorithmic thinking and problem-solving skills.
+
+</td>
+<td align="center" width="50%">
+
+### 🎯 Technical Event Coordinator
+
+**Udhayam**
+
+Served as the in-charge of the Code Debugging event.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 ---
 
 ## 📊 GitHub Statistics
