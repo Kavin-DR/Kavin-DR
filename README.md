@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=C77B9B&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kavin+%F0%9F%91%8B;AI+Engineer+in+Progress+%F0%9F%A4%96;Computer+Science+Student+%F0%9F%92%BB;Building+Intelligent+Solutions+%E2%9C%A8" />
-
+<div align="center">
+  <img src="assets/kavin-hero.svg" width="100%" alt="Kavin Animated Hero Banner"/>
+</div>
 <h3>AI Engineer | Machine Learning Enthusiast | Full-Stack Developer</h3>
 
 <p>
