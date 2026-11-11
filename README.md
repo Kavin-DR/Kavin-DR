@@ -129,3 +129,22 @@ A collection of projects developed during my Artificial Intelligence internship.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10070C,50:451126,100:701A3D&height=120&section=footer" />
 
 </div>
+---
+
+## 💻 LeetCode Performance
+
+<div align="center">
+
+  <a href="https://leetcode.com/u/Kavin-DR/">
+    <img src="https://leetcard.jacoblin.cool/Kavin-DR?ext=contest&theme=dark&font=Baloo_2&border=0&radius=15&colors=10070C,190B12,F8F0F3,E5B5C7,451126,701A3D,C77B9B,E5B5C7" width="100%" alt="LeetCode Contest Statistics"/>
+  </a>
+
+  <br/>
+
+  <a href="https://leetcode.com/u/Kavin-DR/">
+    <img src="https://img.shields.io/badge/Visit_My_LeetCode_Profile-C77B9B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+</div>
+
+---
