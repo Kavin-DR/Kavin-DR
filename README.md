@@ -116,6 +116,50 @@ Exploring artificial intelligence, machine learning models, and practical AI app
 
 ## 🏆 Achievements & Experience
 
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Internship
+**DecodeLabs**
+
+Completed an Artificial Intelligence internship with practical project development experience.
+
+</td>
+<td width="50%">
+
+### 🌐 Web Development Internship
+**Rinex**
+
+Gained practical experience in web development and application development.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💻 Competitive Programming
+
+Practicing problem-solving through LeetCode and CodeChef.
+
+</td>
+<td width="50%">
+
+### 🎯 Event Coordinator
+
+**Udhayam**
+
+Served as the in-charge of the Code Debugging event.
+
+</td>
+</tr>
+</table>
+
+---
+---
+
+## 🏆 Achievements & Experience
+
 <div align="center">
 
 <table>
